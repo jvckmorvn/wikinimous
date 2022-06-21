@@ -1,5 +1,5 @@
 ## Introduction
-Welcome to this lightweight blog site, built as an exercise in implementing CRUD actions available to end-users.
+Welcome to this lightweight blog site, built as an exercise in seeding databases with fake user data (in this case, using the [Faker gem](https://github.com/faker-ruby/faker)
 
 ## Ruby versions
 - Ruby '3.0.3'
